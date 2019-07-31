@@ -1,8 +1,10 @@
 
-# Voila example: Gaussian density
+# Voila example: Codex
 
-[Binder link](https://mybinder.org/v2/gh/ismms-himc/gaussian-density/master?urlpath=voila%2Frender%2Findex.ipynb)
+[Binder link](https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb)
 
-https://mybinder.org/v2/gh/ismms-himc/gaussian-density/master?urlpath=voila%2Frender%2Findex.ipynb
+https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb
 
-Example originally from [ChakriCherukuri/mlviz](https://github.com/ChakriCherukuri/mlviz).
+CODEX data from: http://welikesharingdata.blob.core.windows.net/forshare/index.html
+
+Example originally from: https://github.com/voila-gallery/gaussian-density
