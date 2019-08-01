@@ -10,3 +10,5 @@
 CODEX data from: http://welikesharingdata.blob.core.windows.net/forshare/index.html
 
 Voila dashboard example originally from: https://github.com/voila-gallery/gaussian-density
+
+Note: works best in Chrome Browser.
