@@ -1,5 +1,5 @@
 
-# CODEX Single Cell Multiplexed Imaging Analysis using Clustergrammer2
+# CODEX Single Cell Multiplexed Imaging Dashboard
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb)
 
