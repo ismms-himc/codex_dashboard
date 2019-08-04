@@ -3,10 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb)
 
-<img src='codex_gif_short.gif' alt="CODEX Example" width="800px" >
-
-[![citeseq_adt](img/codex_gif_short.gif)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb)
-
+[![citeseq_adt](img/codex_gif_short.gif)](https://mybinder.org/v2/gh/ismms-himc/codex_dashboard/master?urlpath=voila%2Frender%2Findex.ipynb)
 
 [Goltsev et al](https://linkinghub.elsevier.com/retrieve/pii/S0092867418309048) used a highly multiplexed cytometric approach called CODEX to measure ~30 surface markers in spatially resolved single cells from mouse spleens. We utilized Clustergrammer2 to hierarchically cluster ~5,000 sinlge cells (from a subset of a segmented spleen image). We also used the Jupyter Widget [bqplot](https://github.com/bloomberg/bqplot) to visualize single cell location data using voronoi plots. We then built a dasnboard using the library [voila](https://github.com/QuantStack/voila), which converts Jupyter notebooks to dashboards/web-apps, and linked our heatmap to the spatial map. This allows to interact with the Clustergrammer2 heatmap and highlight cells in the spatially resolved map. These kind of linked views are crucial for exploration of spatially resolved high-dimensional single cell data. Finally, we are running this dashboard using MyBinder.
 
