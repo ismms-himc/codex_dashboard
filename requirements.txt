@@ -1,6 +1,6 @@
 bqplot==0.11.5
 scipy==1.1.0
-voila==0.1.6
+voila==0.1.9
 voila-gridstack
 numpy
 pandas
